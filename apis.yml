@@ -12,4 +12,6 @@ common:
     url: https://github.com/kyndryl-open-source
   - type: LinkedIn
     url: https://www.linkedin.com/company/kyndryl
+  - url: https://www.kyndryl.com/us/en/about-us/news
+    type: Blog
 apis: []
