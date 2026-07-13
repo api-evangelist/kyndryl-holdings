@@ -1,0 +1,14 @@
+{
+  "repo": "kyndryl-holdings",
+  "feeds": [
+    {
+      "source": "https://www.kyndryl.com/us/en/about-us/news",
+      "feed_url": "https://www.kyndryl.com/us/en/about-us/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 12
+}
